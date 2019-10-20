@@ -6,6 +6,6 @@ The user is asked to enter the title of a book he wants to read or has already r
 
 First step would be to understand the dataset provided in Kaggle. 
 
-Unfortunatelly kaggle dataset gives no information about the kind of book; building clusters using the books genre for a recommendation system is not possible. 
+Unfortunately kaggle dataset gives no information about the kind of book; building clusters using the books genre for a recommendation system is not possible. 
 
 Goodreads API wil be used to get the popular shelves.
